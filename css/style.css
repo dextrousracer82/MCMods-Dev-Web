@@ -2,7 +2,14 @@
     Common Css
 --*/
 
+.bla {
+  height: 100px;
+  width: 100px;
+}
 
+.whitespace {
+  color: white;
+}
 
 .shop-welc {
   padding: 250px;
